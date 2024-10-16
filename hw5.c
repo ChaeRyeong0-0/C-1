@@ -19,7 +19,7 @@ int main(void)
 	if (num > 0)
 		binary(num);
 	else
-		printf("¾çÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä.");
+		printf("ì–‘ì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”.");
 
 	return 0;
 }
